@@ -1,0 +1,2 @@
+class Astronomy < ApplicationRecord
+end
