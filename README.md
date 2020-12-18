@@ -1,24 +1,14 @@
-# README
+# A Little About Space React App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Houston we have a problem... We need to know more about space! With this app you can see the Astronomy Picture of the Day, the most viewed NASA projects, and pictures from each of the Mars Rovers! All brought to you by the NASA Open APIs.
 
-Things you may want to cover:
+You can find the repo to my backend here: https://github.com/saleman25/space-front.git
 
-* Ruby version
+## Installation
 
-* System dependencies
+In the project directory, you can run:
 
-* Configuration
+### `rails s`
+ 
+which will open up localhost:3000 for you. Once you make sure your frontend is up and running as well youre good to go! Enjoy learning a few new things regarding space!
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
